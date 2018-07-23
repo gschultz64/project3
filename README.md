@@ -64,25 +64,11 @@ User Stories:
 ## Wire Frames
 #### Genevieve created wire frames in Adobe XD
 
-<img src="images/Home-Landing.jpg" alt="Home/Landing" width="50%">
-
-<img src="images/Login-Signup.jpg" alt="Login/Signup" width="50%">
-
-<img src="images/Profile-Account.jpg" alt="Profile/Account" width="50%">
-
-<img src="images/UploadPhoto.jpg" alt="Upload Photo" width="50%">
-
-<img src="images/Color-MoodResults.jpg" alt="Color/Mood Results" width="50%">
-
-<img src="images/MusicResults.jpg" alt="Music Results" width="50%">
-
-<img src="images/SongManagement-CreatePlaylist.jpg" alt="Create Playlist" width="50%">
-
-<img src="images/SongManagement-NewSong.jpg" alt="New Song" width="50%">
-
-<img src="images/SongManagement–EditPlaylist.jpg" alt="Edit Playlist" width="50%">
-
-<img src="images/SongManagement–Music.jpg" alt="All Saved Music" width="50%">
+<img src="images/Home-Landing.jpg" alt="Home/Landing" width="50%"><img src="images/Login-Signup.jpg" alt="Login/Signup" width="50%">
+<img src="images/Profile-Account.jpg" alt="Profile/Account" width="50%"><img src="images/UploadPhoto.jpg" alt="Upload Photo" width="50%">
+<img src="images/Color-MoodResults.jpg" alt="Color/Mood Results" width="50%"><img src="images/MusicResults.jpg" alt="Music Results" width="50%">
+<img src="images/SongManagement-CreatePlaylist.jpg" alt="Create Playlist" width="50%"><img src="images/SongManagement-NewSong.jpg" alt="New Song" width="50%">
+<img src="images/SongManagement–EditPlaylist.jpg" alt="Edit Playlist" width="50%"><img src="images/SongManagement–Music.jpg" alt="All Saved Music" width="50%">
 
 ##### Organization
 - We used a trello board to keep track of tasks.

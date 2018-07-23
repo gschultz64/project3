@@ -43,7 +43,7 @@ class UserProfile extends Component {
 	render() {
 		const playlistsMapped = this.state.playlists.map((playlist) => {
 			return (
-        <Grid item xs={4}>
+        <Grid item xs={12} md={4}>
           <PlaylistCard playlist={playlist} spfyAtts={this.props.spfyAtts} />
         </Grid>
       )
