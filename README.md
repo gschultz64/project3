@@ -105,6 +105,7 @@ Instead, we decided to open the Spotify login page in a different window. Thatâ€
 | -------| ------------------------ | 
 | POST 	 | /auth/me/from/token 		|
 | POST 	 | /auth/login				|
+| POST 	 | /auth/signup				|
 | GET 	 | /auth/logout				|
 | GET 	 | /auth/get/spotify/token	|
 
@@ -115,6 +116,14 @@ Instead, we decided to open the Spotify login page in a different window. Thatâ€
 | GET 	 | /playlist/user/:userId	|
 | PUT 	 | /playlist/:id			|
 | DELETE | /playlist/:id			|
+
+## backend routes
+| Method | Path						|
+| -------| ------------------------	|
+| GET    | /spotifylogin            |
+| GET    | /callback                |
+| POST   | /cloudinary-data         |
+| GET    | *                        |
 
 
 ## Next Steps and Future Improvements
