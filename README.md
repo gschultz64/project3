@@ -6,7 +6,7 @@
 
 
 ## Project Management Tools
-![Trello Board Screen Shot](trelloBoard.jpg)
+![Trello Board Screen Shot](images/trelloBoard.jpg)
 
 ##### Slack
 ![Slack Screen Shot](slackShot.jpg)
