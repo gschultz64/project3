@@ -2,15 +2,13 @@
 
 #### WDI Seattle Project 3
 
-<img src="images/PlaylistPage.jpg" alt="Playlist Screenshot" width="70%" text-align="center">
+<img src="images/PlaylistPage.jpg" alt="Playlist Screenshot" width="80%">
 
 ## Project Management Tools
-<!-- ![Trello Board Screen Shot](images/trelloBoard.jpg) -->
-<img src="images/trelloBoard.jpg" alt="Trello Board Screenshot" width="70%">
+<img src="images/trelloBoard.jpg" alt="Trello Board Screenshot" width="80%">
 
 ##### Slack
-<!-- ![Slack Screen Shot](images/slackShot.jpg) -->
-<img src="images/slackShot.jpg" alt="Slack Screen Shot" width="70%">
+<img src="images/slackShot.jpg" alt="Slack Screen Shot" width="80%">
 
 
 ## Project Description
