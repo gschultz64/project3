@@ -2,7 +2,7 @@
 
 #### WDI Seattle Project 3
 
-<img src="images/PlaylistPage.jpg" alt="Playlist Screenshot" width="70%">
+<img src="images/PlaylistPage.jpg" alt="Playlist Screenshot" width="70%" style="text-align:center;">
 
 ## Project Management Tools
 <!-- ![Trello Board Screen Shot](images/trelloBoard.jpg) -->
