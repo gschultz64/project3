@@ -64,30 +64,25 @@ User Stories:
 ## Wire Frames
 #### Genevieve created wire frames in Adobe XD
 
-<img src="images/Home-Landing.jpg" alt="Home/Landing" width="30%">
-![Home Page](images/Home-Landing.jpg)
+<img src="images/Home-Landing.jpg" alt="Home/Landing" width="50%">
 
-![Login/Signup](images/Login-Signup.jpg)
+<img src="images/Login-Signup.jpg" alt="Login/Signup" width="50%">
 
-![Profile Page](images/Profile-Account.jpg)
+<img src="images/Profile-Account.jpg" alt="Profile/Account" width="50%">
 
-![Upload Page](images/UploadPhoto.jpg)
+<img src="images/UploadPhoto.jpg" alt="Upload Photo" width="50%">
 
+<img src="images/Color-MoodResults.jpg" alt="Color/Mood Results" width="50%">
 
-![Color/Mood Results](images/Color-MoodResults.jpg)
+<img src="images/MusicResults.jpg" alt="Music Results" width="50%">
 
+<img src="images/SongManagement-CreatePlaylist.jpg" alt="Create Playlist" width="50%">
 
-![Music Results](images/MusicResults.jpg)
+<img src="images/SongManagement-NewSong.jpg" alt="New Song" width="50%">
 
+<img src="images/SongManagement–EditPlaylist.jpg" alt="Edit Playlist" width="50%">
 
-![Create Playlist](images/SongManagement-CreatePlaylist.jpg)
-
-![New Song](images/SongManagement-NewSong.jpg)
-
-![Edit Playlist](images/SongManagement–EditPlaylist.jpg)
-
-![All Saved Music](images/SongManagement–Music.jpg)
-
+<img src="images/SongManagement–Music.jpg" alt="All Saved Music" width="50%">
 
 ##### Organization
 - We used a trello board to keep track of tasks.
@@ -139,9 +134,6 @@ Instead, we decided to open the Spotify login page in a different window. That�
 ## Next Steps and Future Improvements
 
 This project would be very useful as a mobile app, and still has a long way to go in that regard. Ideally it could become something of an instagram and spotify hybrid, accessing the users camera through, playing the music without leaving it, and allowing users to follow each other and have a feed. Along with these mobile improvements, we hope to be able to continue enhancing the color to mood logic as well.
-
-###### Kacy's Section
-
 
 ###### Acknowledgements: 
 
