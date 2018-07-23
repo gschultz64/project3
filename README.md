@@ -2,20 +2,20 @@
 
 #### WDI Seattle Project 3
 
-![Moodsic Screen Shot](PlaylistPage.jpg)
+![Moodsic Screen Shot](images/PlaylistPage.jpg)
 
 
 ## Project Management Tools
 ![Trello Board Screen Shot](images/trelloBoard.jpg)
 
 ##### Slack
-![Slack Screen Shot](slackShot.jpg)
+![Slack Screen Shot](images/slackShot.jpg)
 
 ## Project Description
 
 Moodsic allows you to create personalized playlist based on your mood, by uploading a photo to your profile.
 
-[Check it out for yourself!](heroku link)
+[Check it out for yourself!](https://moodsic11.herokuapp.com)
 
 ### Developers:
 ###### Jay Hathaway - Spotify API and Backend
@@ -63,28 +63,30 @@ User Stories:
 
 ## Wire Frames
 #### Genevieve created wire frames in Adobe XD
-![Home Page](Home-Landing.jpg)
-#
-![Login/Signup](Login-Signup.jpg)
 
-![Profile Page](Profile-Account.jpg)
+<img src="images/Home-Landing.jpg" alt="Home/Landing" width="30%">
+![Home Page](images/Home-Landing.jpg)
 
-![Upload Page](UploadPhoto.jpg)
+![Login/Signup](images/Login-Signup.jpg)
 
+![Profile Page](images/Profile-Account.jpg)
 
-![Color/Mood Results](Color-MoodResults.jpg)
-
-
-![Music Results](MusicResults.jpg)
+![Upload Page](images/UploadPhoto.jpg)
 
 
-![Create Playlist](SongManagement-CreatePlaylist.jpg)
+![Color/Mood Results](images/Color-MoodResults.jpg)
 
-![New Song](SongManagement-NewSong.jpg)
 
-![Edit Playlist](SongManagement–EditPlaylist.jpg)
+![Music Results](images/MusicResults.jpg)
 
-![All Saved Music](SongManagement–Music.jpg)
+
+![Create Playlist](images/SongManagement-CreatePlaylist.jpg)
+
+![New Song](images/SongManagement-NewSong.jpg)
+
+![Edit Playlist](images/SongManagement–EditPlaylist.jpg)
+
+![All Saved Music](images/SongManagement–Music.jpg)
 
 
 ##### Organization
